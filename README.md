@@ -1,3 +1,3 @@
 # CS8803-IRL-PSet2
  
-Please run exact_rl.py
+Please run "exact_rl.py" to see the results.
